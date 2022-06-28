@@ -11,7 +11,7 @@ Le dossier htdocs est le dossier principal du projet, il regroupe toute l’arch
 Le dossier "info" est le dossier qui contient toute les information sur le site.
 
 # INFO
-    Au niveau du planing si ton job es encoure, fini ou annuler, tu met fini sur statu. Exemple: Statu: FINI 
+    Au niveau du planing si ton job es encoure, fini ou annuler, tu met sur statu. Exemple: Statu: FINI 
                                                                                                  Statu: Encoure
                                                                                                  Statu: Annuler
 
