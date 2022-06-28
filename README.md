@@ -16,9 +16,8 @@ Le dossier "info" est le dossier qui contient toute les information sur le site.
                                                                                                  Statu: Annuler
 
 ### Planing 
-######################################
+
 Motif: Creation de la vue inscription. 
 Job de: # HASSIMIOU #
 Delais: 30/06/2022 H->03:43
 Statu: ....
-######################################
