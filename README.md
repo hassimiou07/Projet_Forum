@@ -17,8 +17,15 @@ Le dossier "info" est le dossier qui contient toute les information sur le site.
 
 ### Planing
 /* 
-Motif: Creation de la vue inscription. 
+Motif: Creation de la vue inscription.
+fichier: signup.php 
 Job de: # HASSIMIOU #
 Delais: 30/06/2022 H->03:43
 Statu: ....
+*//* 
+Motif: Creation de la vue connextion.
+ficihier:  login
+Job de: # Gaston667 #
+Delais: 30/06/2022 H->03:43
+Statu: Encoure
 */
