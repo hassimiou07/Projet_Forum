@@ -9,3 +9,16 @@ Le dossier htdocs est le dossier principal du projet, il regroupe toute l’arch
     "img" est le dossier qui contient toute les images et les logos du site.
 
 Le dossier "info" est le dossier qui contient toute les information sur le site.
+
+# INFO
+    Au niveau du planing si ton job es encoure, fini ou annuler, tu met fini sur statu. Exemple: Statu: FINI 
+                                                                                                 Statu: Encoure
+                                                                                                 Statu: Annuler
+
+### Planing 
+######################################
+Motif: Creation de la vue inscription. 
+Job de: # HASSIMIOU #
+Delais: 30/06/2022 H->03:43
+Statu: ....
+######################################
