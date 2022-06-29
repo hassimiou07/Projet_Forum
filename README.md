@@ -21,7 +21,7 @@ Motif: Creation de la vue inscription.
 fichier: signup.php 
 Job de: # HASSIMIOU #
 Delais: 30/06/2022 H->03:43
-Statu: ....
+Statu: En Coure
 *//* 
 Motif: Creation de la vue connextion.
 ficihier:  login
